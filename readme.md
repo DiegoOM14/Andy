@@ -1,14 +1,21 @@
 # Andrea
 
-¡Bienvenido al repositorio de Desarrollo Web Profesional!
+Hola Andy,bienvenida a este lugar JAJAJA
 
-Este repositorio contiene los trabajos prácticos y proyectos realizados durante la materia de Desarrollo Web Profesional, impartida por el profesor Alejandro Cesar Valencia Garcia en la Universidad Tecnológica de San Juan del Río (UTSJR).
 
-## Alumno
+## Que es esto?
 
-- **Nombre:** José Diego Ordoñez Morales
-- **Grupo:** DS02SV-23
-- **Correo:** diegoom.ti21@utsjr.edu.mx
+  Esto que ves aqui, solamente es el inicio JAJA
+  De aqui se desglosaran varios links a distintas paginas
+  con diferentes propositos cada una, como ejemplo de algunas
+  son las siguientes:
+- **Vlog Diarios**
+- **Canciones**
+- **Fotos**
+- **No se**
+- **Para tu Mamá**
+
+  Aun son mas las que pienso agregar pero por ahora tengo pensadas esas.
 
 ## Contenido
 
