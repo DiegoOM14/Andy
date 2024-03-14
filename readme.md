@@ -1,6 +1,6 @@
 # Andrea
 
-Hola Andy,bienvenida a este lugar JAJAJA
+Hola Andy, bienvenida a este lugar JAJAJA
 
 
 ## Que es esto?
