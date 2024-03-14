@@ -13,19 +13,35 @@ Hola Andy,bienvenida a este lugar JAJAJA
 - **Canciones**
 - **Fotos**
 - **No se**
+- **Notas**
 - **Para tu Mamá**
+- **Quieres verme?**
 
   Aun son mas las que pienso agregar pero por ahora tengo pensadas esas.
 
 ## Contenido
 
-En este repositorio encontrarás proyectos y prácticas relacionadas con el desarrollo web, con un enfoque principal en Angular.
+**Vlogs Diarios**
+Basicamente aqui sera donde puedas subir tanto como tu y yo vlogs diarios, en un futuro tal vez se actualice a algo diferente o algo asi.
 
-## Estructura del Repositorio
+**Canciones** 
+Videos o fotos de canciones que escucho o te canto que me recuerdan a ti.
 
-- `Parcial/`: Número de parcial
-  - `Proyecto/`: Nombre del proyecto
-- ...
+**Fotos**
+Fotos de amaneceres, de cosas diferentes igual cosas que te me recuerden a ti y en un futuro podremos subir fotos de los dos o algo por el estilo.
+
+**No se**
+TikToks, Videos, Peliculas que quiero ver contigo etc. Cosas que no se pondrian en una seccion en especial pero que son cosas graciosas o cosas que te quisiera mostrar.
+
+**Notas**
+Aqui podras anotar cualquier tipo de Nota o algo que quisieras escribir.
+
+**Para tu Mamá**
+Esta de aqui esta especialmente hecho para el 21 ya que sera algo que le vas a tener que enseñar a tu Mamá JAJA
+
+**Quieres verme?**
+Quieres verme?
+
 
 ## Trabajos del Primer Parcial
 
