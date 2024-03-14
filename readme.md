@@ -21,25 +21,25 @@ Hola Andy, bienvenida a este lugar JAJAJA
 
 ## Contenido
 
-**Vlogs Diarios**
+**Vlogs Diarios** :
 Basicamente aqui sera donde puedas subir tanto como tu y yo vlogs diarios, en un futuro tal vez se actualice a algo diferente o algo asi.
 
-**Canciones** 
+**Canciones** :
 Videos o fotos de canciones que escucho o te canto que me recuerdan a ti.
 
-**Fotos**
+**Fotos** :
 Fotos de amaneceres, de cosas diferentes igual cosas que te me recuerden a ti y en un futuro podremos subir fotos de los dos o algo por el estilo.
 
-**No se**
+**No se** :
 TikToks, Videos, Peliculas que quiero ver contigo etc. Cosas que no se pondrian en una seccion en especial pero que son cosas graciosas o cosas que te quisiera mostrar.
 
-**Notas**
+**Notas** :
 Aqui podras anotar cualquier tipo de Nota o algo que quisieras escribir.
 
-**Para tu Mamá**
+**Para tu Mamá** :
 Esta de aqui esta especialmente hecho para el 21 ya que sera algo que le vas a tener que enseñar a tu Mamá JAJA
 
-**Quieres verme?**
+**Quieres verme?** :
 Quieres verme?
 
 
