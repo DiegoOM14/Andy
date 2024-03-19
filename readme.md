@@ -14,8 +14,7 @@ Hola Andy, bienvenida a este lugar JAJAJA
 - **Fotos**
 - **No se**
 - **Notas**
-- **Para tu Mamá** **Quieres verme?**
-- **Quieres verme?**
+- **Para tu Mamá** - **Quieres verme?**
 
   Aun son mas las que pienso agregar pero por ahora tengo pensadas esas.
 
